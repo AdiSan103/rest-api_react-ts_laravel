@@ -1,0 +1,14 @@
+frontend :
+https://create-react-app.dev/docs/adding-typescript/
+https://flowbite.com/docs/getting-started/react/
+https://react-typescript-cheatsheet.netlify.app/
+
+get data
+https://codesandbox.io/s/react-fetch-api-with-typescript-forked-klcrvm?file=/src/App.tsx
+
+post data
+https://codesandbox.io/s/github/techomoro/submit-form-data-rest-api-react-demo-app/tree/master/?file=/src/App.js
+
+backend :
+https://laravel.com/docs/9.x/installation
+https://jwt-auth.readthedocs.io/en/develop/laravel-installation/
